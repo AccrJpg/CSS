@@ -1,0 +1,16 @@
+body{   
+    background-color:  #808080;
+}
+
+h1{
+    color: white;
+}
+
+#square1, #square2, #square3, #square4 {
+
+    width: 90px;
+    height: 90px;
+    background-color:  #fea500;
+    margin-top: 10px;
+
+}
