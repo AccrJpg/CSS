@@ -1,0 +1,21 @@
+body {
+    background-color: #faebd6;
+}
+
+#tekst h1 {
+    color:#ff0000;
+}
+
+div.first-paragraph {
+    color:#a42423;
+    font-size: 2em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div.second-paragraph {
+    color:#00008f;
+    font-size: 2em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
