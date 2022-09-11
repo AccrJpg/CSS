@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(151, 67, 67);
+}
+
+h1.title {
+    text-align: center;
+    background-color: antiquewhite;
+    color: salmon;
+}
+
+p.titletext {
+    background-color: rgb(226, 200, 160);
+    text-align: center;
+}
+
+h2.subtitle{
+    text-align: center;
+    background-color: beige;
+}
+
+p.subtitletext{
+    text-align: center;
+    background-color: rgb(173, 171, 166);
+}
+
+ol.items{
+    background-color: aqua;
+    text-decoration: underline;
+}
