@@ -1,0 +1,13 @@
+p{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+p.main{
+    background-color: skyblue;
+}
+
+p.side{
+    opacity: 0.3;
+}
