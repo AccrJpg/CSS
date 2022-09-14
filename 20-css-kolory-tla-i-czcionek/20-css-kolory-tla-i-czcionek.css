@@ -8,17 +8,17 @@ h1.title {
     color: salmon;
 }
 
-p.titletext {
+p.titleText {
     background-color: rgb(226, 200, 160);
     text-align: center;
 }
 
-h2.subtitle{
+h2.subTitle{
     text-align: center;
     background-color: beige;
 }
 
-p.subtitletext{
+p.subTitleText{
     text-align: center;
     background-color: rgb(173, 171, 166);
 }
